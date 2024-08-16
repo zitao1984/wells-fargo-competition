@@ -3,7 +3,7 @@
 
 -CleanData.py: functions for data importing, exploration, cleaning and test-train-validation splitting.
 
--Model.py: functions for feature selection, model building and turning.
+-Model.py: functions for feature selection, model building and tuning.
 
 -head.py: common library 
 
